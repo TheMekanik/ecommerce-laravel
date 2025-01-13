@@ -15,14 +15,20 @@ This project is an e-commerce website for an online store. The website is built 
   - **Confirm Payment and Orders**
     <p align="center"><img src="storage/app/public/OrderConfirmationPage.jpeg"></p>
     <p>The admin can view the list of incoming orders and the attached payment proofs. On this page, the admin can confirm orders.</p>
+    
 - **Customer**
   - **View Product**
+    <p align="center"><img src="storage/app/public/DetailProductPage.jpeg"></p>
     <p>Users can view all the products available for sale on the website. User can also view the product's detail see more about the product</p>
   - **Add To Cart Page**
+    <p align="center"><img src="storage/app/public/CartPage.jpeg"></p>
     <p>When clicking the "show detail" button, users can add products to their cart. Additionally, users can remove items they are viewing from the cart.</p>
   - **Checkout Page**
+    <p align="center"><img src="storage/app/public/CheckoutPage.jpeg"></p>
     <p>On the checkout page, users can view a summary of their purchase, including the total price, quantity of products purchased, and they can also upload payment proof on this page.</p>
   - **Orders Page**
+    <p align="center"><img src="storage/app/public/OrdersPage.jpeg"></p>
     <p>On this page, users can see all the orders they have placed. They can also check the status of their orders.</p>
   - **Edit Profile Page**
+    <p align="center"><img src="storage/app/public/EditProfilePage.jpeg"></p>
     <p>On this page, users can update their account name and password.</p>
